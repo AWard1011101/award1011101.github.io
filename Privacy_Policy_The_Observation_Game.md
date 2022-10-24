@@ -14,7 +14,7 @@ The list of permissions required by the app in the `AndroidManifest.xml` file:
 
 | Permission | Why it is required |
 | :---: | --- |
-| `android.permission.WRITE_INTERNAL_STORAGE` | This is required to store Player data on your device. |
+| `android.permission.WRITE_INTERNAL_STORAGE` | This is required to store Player data (number of correct answers, questions answered, etc) on your device. |
 
  <hr style="border:1px solid gray">
 
